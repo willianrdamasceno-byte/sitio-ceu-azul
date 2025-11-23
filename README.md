@@ -1,9 +1,10 @@
 # Sítio Céu Azul – Coming Soon  
-### Tema gratuito em Tailwind CSS  
-Página de pré-lançamento com contagem regressiva, baseada no tema Fyrestrap.
+### Free Tailwind CSS Theme  
+Página de pré-lançamento baseada no tema Fyrestrap, com visual moderno e responsivo.
 
-## Preview  
-![Preview](https://willianrdamasceno-byte.github.io/sitio-ceu-azul/assets/img/screenshot.png)
+## 🔍 Preview  
+Acesse a visualização online do site:  
+👉 **https://willianrdamasceno-byte.github.io/sitio-ceu-azul/**
 
-🔗 **Acesse o repositório:**  
-https://github.com/willianrdamasceno-byte/sitio-ceu-azul
+## 📦 Repositório do Projeto  
+👉 **https://github.com/willianrdamasceno-byte/sitio-ceu-azul**
