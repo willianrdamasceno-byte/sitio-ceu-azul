@@ -1,2 +1,6 @@
-# sitio-ceu-azul
-Repositório oficial do site da Chácara Sítio Céu Azul, localizada em Conselheiro Lafaiete – MG. Aqui você encontra os arquivos do projeto dedicado ao aluguel para eventos, finais de semana e temporadas.
+# Fyrestrap - TW Coming Soon
+### Free Tailwind CSS Theme
+ Free prelaunch Tailwind CSS theme with a countdown timer developed by Fyrestrap.
+ 
+ ## Preview
+![BS Lively Preview](https://www.fyrestrap.com/assets/img/screenshot/launch.png)
