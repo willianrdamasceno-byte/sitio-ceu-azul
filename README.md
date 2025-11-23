@@ -1,6 +1,9 @@
-# Fyrestrap - TW Coming Soon
-### Free Tailwind CSS Theme
- Free prelaunch Tailwind CSS theme with a countdown timer developed by Fyrestrap.
- 
- ## Preview
-![BS Lively Preview](https://www.fyrestrap.com/assets/img/screenshot/launch.png)
+# Sítio Céu Azul – Coming Soon  
+### Tema gratuito em Tailwind CSS  
+Página de pré-lançamento com contagem regressiva, baseada no tema Fyrestrap.
+
+## Preview  
+![Preview](https://willianrdamasceno-byte.github.io/sitio-ceu-azul/assets/img/screenshot.png)
+
+🔗 **Acesse o repositório:**  
+https://github.com/willianrdamasceno-byte/sitio-ceu-azul
